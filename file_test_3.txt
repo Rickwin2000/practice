@@ -3,3 +3,10 @@ file3
 
 
 new line
+
+
+
+
+
+
+file3
